@@ -6,7 +6,9 @@ namespace ConsoleApp5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello first change!");
+            Console.WriteLine("Hello second change!");
+            Console.WriteLine("Hello third change!");
+
         }
     }
 }
